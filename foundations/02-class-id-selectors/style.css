@@ -1,0 +1,19 @@
+.first-rule {
+  background-color: rgb(255, 167, 167);
+  font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#second-rule {
+  color: rgb(0, 0, 255);
+  font-size: 36px;
+}
+
+.third-rule {
+  font-size: 24px;
+}
+
+#fourth-rule {
+  background-color: rgb(128, 255, 128);
+  font-size: 24px;
+  font-weight: bold;
+}
